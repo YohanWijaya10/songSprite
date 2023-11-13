@@ -7,20 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		701BB6B92B00AF3600EE7708 /* MyParticle2.sks in Resources */ = {isa = PBXBuildFile; fileRef = 701BB6B82B00AF3600EE7708 /* MyParticle2.sks */; };
+		701BB6BB2B00B13E00EE7708 /* MyParticle3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 701BB6BA2B00B13E00EE7708 /* MyParticle3.sks */; };
+		701BB6BD2B0283E500EE7708 /* MyParticle4.sks in Resources */ = {isa = PBXBuildFile; fileRef = 701BB6BC2B0283E500EE7708 /* MyParticle4.sks */; };
+		701BB6BF2B0287AB00EE7708 /* confetti.sks in Resources */ = {isa = PBXBuildFile; fileRef = 701BB6BE2B0287AB00EE7708 /* confetti.sks */; };
 		70410C3C2AFE97DC00ABDC32 /* songSpriteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70410C3B2AFE97DC00ABDC32 /* songSpriteApp.swift */; };
 		70410C3E2AFE97DC00ABDC32 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70410C3D2AFE97DC00ABDC32 /* ContentView.swift */; };
 		70410C402AFE97DE00ABDC32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70410C3F2AFE97DE00ABDC32 /* Assets.xcassets */; };
 		70410C432AFE97DE00ABDC32 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70410C422AFE97DE00ABDC32 /* Preview Assets.xcassets */; };
 		70410C4A2AFE97F300ABDC32 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70410C492AFE97F300ABDC32 /* GameScene.swift */; };
+		70410C662AFFD01300ABDC32 /* SuperShy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70410C652AFFD01300ABDC32 /* SuperShy.mp3 */; };
+		70410C6A2AFFD85F00ABDC32 /* supershydrum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 70410C692AFFD85F00ABDC32 /* supershydrum.mp3 */; };
+		70410C6C2B00A7A300ABDC32 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 70410C6B2B00A7A300ABDC32 /* MyParticle.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		701BB6B82B00AF3600EE7708 /* MyParticle2.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle2.sks; sourceTree = "<group>"; };
+		701BB6BA2B00B13E00EE7708 /* MyParticle3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle3.sks; sourceTree = "<group>"; };
+		701BB6BC2B0283E500EE7708 /* MyParticle4.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle4.sks; sourceTree = "<group>"; };
+		701BB6BE2B0287AB00EE7708 /* confetti.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = confetti.sks; sourceTree = "<group>"; };
 		70410C382AFE97DC00ABDC32 /* songSprite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = songSprite.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70410C3B2AFE97DC00ABDC32 /* songSpriteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = songSpriteApp.swift; sourceTree = "<group>"; };
 		70410C3D2AFE97DC00ABDC32 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		70410C3F2AFE97DE00ABDC32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70410C422AFE97DE00ABDC32 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		70410C492AFE97F300ABDC32 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		70410C652AFFD01300ABDC32 /* SuperShy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SuperShy.mp3; sourceTree = "<group>"; };
+		70410C692AFFD85F00ABDC32 /* supershydrum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = supershydrum.mp3; sourceTree = "<group>"; };
+		70410C6B2B00A7A300ABDC32 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +70,13 @@
 				70410C3B2AFE97DC00ABDC32 /* songSpriteApp.swift */,
 				70410C3D2AFE97DC00ABDC32 /* ContentView.swift */,
 				70410C492AFE97F300ABDC32 /* GameScene.swift */,
+				701BB6BC2B0283E500EE7708 /* MyParticle4.sks */,
+				701BB6B82B00AF3600EE7708 /* MyParticle2.sks */,
+				701BB6BA2B00B13E00EE7708 /* MyParticle3.sks */,
+				701BB6BE2B0287AB00EE7708 /* confetti.sks */,
+				70410C6B2B00A7A300ABDC32 /* MyParticle.sks */,
+				70410C692AFFD85F00ABDC32 /* supershydrum.mp3 */,
+				70410C652AFFD01300ABDC32 /* SuperShy.mp3 */,
 				70410C3F2AFE97DE00ABDC32 /* Assets.xcassets */,
 				70410C412AFE97DE00ABDC32 /* Preview Content */,
 			);
@@ -129,7 +150,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				70410C432AFE97DE00ABDC32 /* Preview Assets.xcassets in Resources */,
+				70410C6A2AFFD85F00ABDC32 /* supershydrum.mp3 in Resources */,
+				701BB6BB2B00B13E00EE7708 /* MyParticle3.sks in Resources */,
+				70410C662AFFD01300ABDC32 /* SuperShy.mp3 in Resources */,
+				701BB6BD2B0283E500EE7708 /* MyParticle4.sks in Resources */,
+				701BB6BF2B0287AB00EE7708 /* confetti.sks in Resources */,
 				70410C402AFE97DE00ABDC32 /* Assets.xcassets in Resources */,
+				701BB6B92B00AF3600EE7708 /* MyParticle2.sks in Resources */,
+				70410C6C2B00A7A300ABDC32 /* MyParticle.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
